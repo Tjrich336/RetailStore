@@ -1,0 +1,36 @@
+Daily Report: 
+ 
+Daily Sales: 
+*** Will Return Negative If Products Are Restocked ***
+
+	Total Sales: -2 unit(s)
+
+		Book Sales: -3 unit(s)
+
+		CD Sales: 0 unit(s)
+
+		DVD Sales: 1 unit(s)
+
+Revenue: 
+*** Will Return Negative If Products Are Restocked ***
+
+	Total Revenue: $-47.98
+
+		Book Revenue: $-59.97
+
+		CD Revenue: $0.0
+
+		DVD Revenue: $11.99
+
+Product specifications: 
+
+	1. Book || ID: 1972, Description: Harry Potter, Price: $19.99, Stock: 53 unit(s)	
+
+	2. CD || ID: 1233, Description: College Dropout, Price: $14.99, Stock: 50 unit(s)	
+
+	3. DVD || ID: 1351, Description: The Godfather, Price: $11.99, Stock: 49 unit(s)	
+
+New members: 
+
+	No new members today :(
+
